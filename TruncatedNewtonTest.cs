@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-using Gramma.Vectors;
-using Gramma.Vectors.ExtraExtensions;
-using Gramma.Optimization;
+using Grammophone.Vectors;
+using Grammophone.Vectors.ExtraExtensions;
+using Grammophone.Optimization;
 
 namespace OptimizationTest
 {

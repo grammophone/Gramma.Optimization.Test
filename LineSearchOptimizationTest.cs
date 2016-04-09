@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-using Gramma.Linq;
-using Gramma.Vectors;
-using Gramma.Vectors.ExtraExtensions;
-using Gramma.Optimization;
+using Grammophone.Linq;
+using Grammophone.Vectors;
+using Grammophone.Vectors.ExtraExtensions;
+using Grammophone.Optimization;
 
 namespace OptimizationTest
 {
